@@ -14,6 +14,6 @@ in this project, different user interface was made using reacts. The projects nc
 4. useContext api
 
 view this projects on
-[Projects Site](https://tashy-react-practise.netlify.app/)
+[Projects Site](https://tashy-react-practice.netlify.app/)
 
 ### I am open to an internship role as fullstack web developer
